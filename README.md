@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tenche99
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning andriod development
-- 💞️ I’m looking to collaborate on andriod development project
+- 👀 I’m interested in Analytics an Development Domains
+- 🌱 I’m currently doing Data Analytics
+- 💞️ I’m looking to collaborate on Analytics and software development project
 - 📫 How to reach me you by chemetenzin99@gmail.com
 
 <!---
