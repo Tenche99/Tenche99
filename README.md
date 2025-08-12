@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tenche99
-- 👀 I’m interested in Analytics an Development Domains
+- 👀 I’m interested in Development Domains
 - 🌱 I’m currently in Development Domain
-- 💞️ I’m looking to collaborate on Analytics and software development project
+- 💞️ I’m looking to collaborate on software development project
 - 📫 How to reach by: chemetenzin99@gmail.com
 
 <!---
